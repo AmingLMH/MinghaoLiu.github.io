@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Minghao Liu"
-  pronouns         : # example: "she/her"  
+  pronouns         :  "he/his"  
   bio              : "My research focuses on program verification, where I employ formal methods to enhance the reliability and security of software systems."
   location         : "Earth"
   employer         : "Red Brick University"
