@@ -7,13 +7,13 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "CHINA"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Minghao Liu / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Minghao Liu"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://AmingLMH.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,17 +27,17 @@ author:
   pronouns         :  "he/his"  
   bio              : "My research focuses on program verification, where I employ formal methods to enhance the reliability and security of software systems."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "National University of Defence Technology"
   uri              : https://AmingLMH.github.io
-  email            : "none@example.org" 
+  email            : "lmh@nudt.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
